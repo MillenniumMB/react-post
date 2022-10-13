@@ -1,0 +1,33 @@
+.post{
+    background-color: #292929;
+    display: grid;
+    grid-template-columns: 8fr 1fr;
+    grid-gap: 2vw;
+    align-items: center;
+    width: 90%;
+    border: #292929 1px solid;
+    border-radius: 30px;
+    box-shadow: 0 10px 30px 0 rgba(0, 0, 0, .2);
+    margin: 20px auto;
+    padding: 40px;
+}
+
+.NamePost{
+    margin: 0;
+}
+
+.LinkComment{
+    text-decoration: none;
+    margin-top: 50px;
+    color:darkviolet;
+}
+
+
+.description{
+
+}
+
+.ButtonContainer{
+    align-items: end;
+
+}

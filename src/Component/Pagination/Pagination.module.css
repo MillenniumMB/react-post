@@ -1,0 +1,26 @@
+.Pagination{
+    margin: auto;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 50px;
+
+}
+
+.Pagination span{
+    padding: 1%;
+    margin: 0 auto;
+}
+
+.paginationBottom{
+    cursor: revert;
+    width: 20px;
+    height: 20px;
+}
+
+.paginationBottomActive{
+    color: crimson;
+}
+

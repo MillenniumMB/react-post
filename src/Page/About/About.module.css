@@ -1,0 +1,36 @@
+.Img{
+    background: url("https://cdn.oboi7.com/6b52f011137ad983bb8aec4f96ef5d00e0b659e4/cherno-beloe-izobrazhenie-goroda-arhitektura-zdaniya.jpg") no-repeat center center fixed;
+    background-size: cover;
+    position: fixed; top: 66px; left: 0;
+    width: 100%;
+    height: 1200px;
+    z-index: -100;
+    text-align: center;
+}
+
+.mainText{
+
+}
+.section {
+    margin: 0 auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.title_01__subTitle {
+    color: #c2c2c2;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 30px;
+    font-stretch: expanded;
+}
+
+.title_01__title {
+    font-weight: 400;
+    margin-bottom: 5px;
+    font-size: 50px;
+}
+
+

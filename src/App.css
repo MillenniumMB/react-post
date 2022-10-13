@@ -1,0 +1,12 @@
+html body{
+  height: 100%;
+}
+
+body {
+  background-color: #222222;
+  color: #f6f4e6;
+  position: relative;
+  min-height: 100%;
+  padding-bottom: 70px;
+
+}

@@ -1,0 +1,31 @@
+.comment{
+    margin-top: 30px;
+}
+
+.userNik{
+    display: grid;
+    grid-template-columns: 30px auto;
+    justify-content: start;
+
+}
+
+.userIcon{
+    width: 30px;
+    height: 30px;
+    border: black 2px solid;
+    color: black;
+    border-radius: 50%;
+    background-color: darkviolet;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    padding-left: 8px;
+
+}
+
+.userNik h4{
+
+    margin-left: 10px;
+}

@@ -1,0 +1,15 @@
+.containerSelect{
+    margin: 1.5% 0;
+}
+
+.Select{
+    color: #f6f4e6;
+    width: 20%;
+    height: 30px;
+    background-color: #292929;
+    border: darkviolet 2px solid;
+}
+
+.Select option {
+    background-color: #292929;
+}
