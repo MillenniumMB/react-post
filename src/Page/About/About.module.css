@@ -18,7 +18,7 @@
 }
 
 
-.title_01__subTitle {
+.title_ {
     color: #c2c2c2;
     font-weight: 900;
     text-transform: uppercase;
@@ -27,7 +27,7 @@
     font-stretch: expanded;
 }
 
-.title_01__title {
+.title_sub {
     font-weight: 400;
     margin-bottom: 5px;
     font-size: 50px;
